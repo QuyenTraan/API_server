@@ -1,0 +1,424 @@
+
+ '{
+    "24": {
+        "ten_thuc_pham":"ca loc",
+        "trong_luong": "1 con "
+    },
+    "88": {
+        "ten_thuc_pham":"hanh tim",
+        "trong_luong": "50 g "
+    },
+    "112": {
+        "ten_thuc_pham":"toi kho",
+        "trong_luong": "100g "
+    },
+    "106": {
+        "ten_thuc_pham":"dau phong ran",
+        "trong_luong": "100g"
+    },
+    "98": {
+        "ten_thuc_pham":"muoi",
+        "trong_luong": "1/2 muỗng muối"
+    },
+    "99": {
+        "ten_thuc_pham":"bot ngot",
+        "trong_luong": "1/2 muỗng bot ngot"
+    },
+    "102": {
+        "ten_thuc_pham":"ruou gung",
+        "trong_luong": "3 muỗng"
+        
+    }
+}',
+
+ '{
+    "18": {
+        "ten_thuc_pham":"thit bo than",
+        "trong_luong": "200g"
+        
+       
+    },
+    "66": {
+        "ten_thuc_pham":"rau muong",
+        "trong_luong": "1 bó"
+      
+    },
+    "112": {
+        "ten_thuc_pham":"toi",
+        "trong_luong": "1 củ"
+        
+     
+    },
+    "100": {
+        "ten_thuc_pham":"nuoc mam",
+        "trong_luong": "hai thìa cà phê"
+     
+    },
+    "103": {
+        "ten_thuc_pham":"tieu",
+        "trong_luong": "1 thìa nhỏ"
+     
+    },
+    "104": {
+        "ten_thuc_pham":"hat nem",
+        "trong_luong": "hai thìa cà phê"
+       
+    },
+    "105": {
+        "ten_thuc_pham":"dau an",
+        "trong_luong": "ba thìa dầu ăn"
+      
+    }
+}',      
+
+
+
+'{
+    "17": {
+        "ten_thuc_pham":"thit ba chi",
+        "trong_luong": "500g"
+       
+    },
+    "76": {
+        "ten_thuc_pham":"hanh kho",
+        "trong_luong": "3 củ"
+       
+    },
+    "112": {
+        "ten_thuc_pham":"toi",
+        "trong_luong": "1 củ"
+       
+    },
+    "67": {
+        "ten_thuc_pham":"qua dua tuoi",
+        "trong_luong": "1 quả"
+      
+    },
+    "28": {
+        "ten_thuc_pham":"trung ga",
+        "trong_luong": "3-4 quả"
+        
+    },
+    "75": {
+        "ten_thuc_pham":"hanh la",
+        "trong_luong": "2 ba cộng"
+
+    },
+    "98": {
+        "ten_thuc_pham":"muoi",
+        "trong_luong": "1/2 thìa cà phê"
+
+  
+    },
+    "100": {
+        "ten_thuc_pham":"nuoc mam",
+        "trong_luong": "2 muỗng cà phê"
+      
+    },
+    "108": {
+        "ten_thuc_pham":"mi chin",
+        "trong_luong": "3 vắt"
+     
+    },
+    "105": {
+        "ten_thuc_pham":"dau an",
+        "trong_luong": "5 thìa dầu ăn"
+        
+    },
+    "103": {
+        "ten_thuc_pham":"hat tieu",
+        "trong_luong": "1/2 muỗng cà phê"
+       
+    },
+    "113": {
+        "ten_thuc_pham":"duong",
+        "trong_luong": "1/2 muỗng cà phê"
+   
+    }
+}',
+
+
+
+'{
+    "9": {
+        "ten_thuc_pham":"tom",
+        "trong_luong": "500g"
+      
+    },
+    "68": {
+        "ten_thuc_pham":"hanh",
+        "trong_luong": "băm 1 muỗng"
+       
+    },
+    "112": {
+        "ten_thuc_pham":"toi",
+        "trong_luong": "1 muỗng"
+        
+    },
+    "100": {
+        "ten_thuc_pham":"nuoc mam",
+        "trong_luong": "1 muỗng"
+      
+    },
+    "113": {
+        "ten_thuc_pham":"duong",
+        "trong_luong": "2 muỗng"
+        
+    },
+    "99": {
+        "ten_thuc_pham":"bot ngot",
+        "trong_luong": "1 muỗng cà phê"
+      
+    },
+    "75": {
+        "ten_thuc_pham":"hanh la",
+        "trong_luong": "3 nhánh  cắt khúc ngắn"
+       
+    }
+}',
+
+
+'{
+    "20": {
+        "ten_thuc_pham":"canh ga hoac dui ga",
+        "trong_luong": "800g"
+      
+    },
+    "112": {
+        "ten_thuc_pham":"toi",
+        "trong luong": "1,5 củ"
+      
+    },
+    "88": {
+        "ten_thuc_pham":"hanh tim",
+        "trong luong": "5 củ"
+       
+    },
+    "83": {
+        "ten_thuc_pham":"ot",
+        "trong_luong": "4 trái"
+      
+    },
+    "113": {
+        "ten_thuc_pham":"duong",
+        "trong_luong": "5 muỗng"
+        
+    },
+    "103": {
+        "ten_thuc_pham":"tieu",
+        "trong_luong": "1 muỗng"
+       
+    },
+    "100": {
+        "ten_thuc_pham":"nuoc mam",
+        "trong_luong": "nửa chén"
+    }
+}',
+
+
+
+
+
+'{
+    "47": {
+        "ten_thuc_pham":"muc ong",
+        "trong_luong": "2 con"
+       
+    },
+    "17": {
+        "ten_thuc_pham":"thit heo xay",
+        "trong_luong": "200 gr"
+        
+    },
+    "109": {
+        "ten_thuc_pham":"mien",
+        "trong_luong": "1 nắm"
+       
+    },
+    "97": {
+        "ten_thuc_pham":"nam meo",
+        "trong luong": "thái nhỏ"
+        
+    },
+    "75": {
+        "ten_thuc_pham":"hanh la",
+        "trong_luong": "2 phần trắng nhánh"
+     
+    },
+    "103 ": {
+        "ten_thuc_pham":"tieu",
+        "trong_luong": "1/2 muỗng cà phê"
+   
+    },
+    "100": {
+        "ten_thuc_pham":"nuoc mam",
+        "trong_luong": "1 muỗng cà phê "
+        
+    },
+    "104": {
+        "ten_thuc_pham":"bot nem",
+        "trong_luong": "1/2 muỗng cà phê"
+       
+    },
+    "112": {
+        "ten_thuc_pham":"toi",
+        "trong_luong": "2 tép băm "
+        
+    },
+    "88": {
+        "ten_thuc_pham":"hanh tim",
+        "trong_luong": "1 củ"
+     
+    },
+    "77": {
+        "ten_thuc_pham":"ca chua",
+        "trong_luong": "3,4 trái thái nhỏ."
+        
+    }
+}',
+
+
+
+
+
+'{
+    "69": {
+        "ten_thuc_pham":"rau xa lạch",
+        "trong_luong": "1 lạng "
+       
+    },
+    "114": {
+        "ten_thuc_pham":"gia do song",
+        "trong_luong": "1 lang"
+      
+    },
+    "28": {
+        "ten_thuc_pham":"trung ga",
+        "trong_luong": "1 qua"
+   
+    },
+    "68": {
+        "ten_thuc_pham":"hanh tay",
+        "trong_luong": "một nửa củ"
+       
+    },
+    "82": {
+        "ten_thuc_pham":"dua chuot",
+        "trong_luong": "1 quả"
+      
+    },
+    "77": {
+        "ten_thuc_pham":"ca chua",
+        "trong_luong": "1 quả"
+        
+    },
+    "121": {
+        "ten_thuc_pham":"giam",
+        "trong_luong": "1 thìa cà phê"
+    
+    },
+    "112": {
+        "ten_thuc_pham":"toi",
+        "trong_luong": "băm nhuyễn"
+     
+    },
+    "83": {
+        "ten_thuc_pham":"ot",
+        "trong_luong": "1 trái"
+   
+    },
+    "113": {
+        "ten_thuc_pham":"duong",
+        "trong_luong": "1 thìa cà phê"
+   
+    },
+    "98": {
+        "ten_thuc_pham":"muoi",
+        "trong_luong": "1/2 muỗng cà phê"
+      
+     
+    }
+}',
+
+
+
+
+'{
+    "21": {
+        "ten_thuc_pham":"vit",
+        "trong_luong": "1 con"
+       
+    },
+    "115": {
+        "ten_thuc_pham":"bia",
+        "trong_luong": "1-2 lon"
+        
+    },
+    "116": {
+        "ten_thuc_pham":"gung",
+        "trong_luong": "1 nhánh băm nhỏ"
+  
+    },
+    "112": {
+        "ten_thuc_pham":"toi",
+        "trong_luong": "một củ bâm nhỏ"
+       
+    },
+    "68": {
+        "ten_thuc_pham":"cu hanh",
+        "trong_luong": "1 củ băm nhỏ"
+        
+    },
+    "117": {
+        "ten_thuc_pham":"hoa hoi",
+        "trong_luong": "2"
+       
+    },
+    "118": {
+        "ten_thuc_pham":"nguyet que",
+        "trong luong": "hai lá"
+        
+    },
+    "83": {
+        "ten_thuc_pham":"ot kho",
+        "trong_luong": "1 quả xắt nhỏ"
+ 
+    },
+    "119": {
+        "ten_thuc_pham":"ruou gao",
+        "trong_luong": "15 ml"
+      
+    },
+    "120": {
+        "ten_thuc_pham":"dau hao",
+        "trong_luong": "15ml"
+        
+    }
+}',
+
+
+
+
+
+
+
+
+
+
+'{
+    "53": {
+        "ten_thuc_pham":"oc huong",
+        "trong luong": "1 kg"
+     
+    },
+    "116": {
+        "ten_thuc_pham":"gung",
+        "trong luong": "1 nhánh đập dập"
+       
+    },
+    "83": {
+        "ten_thuc_pham":"ot",
+        "trong luong": "2 trái , thái sợ dài"
+       
+    }
+}',
