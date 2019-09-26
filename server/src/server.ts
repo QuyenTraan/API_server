@@ -33,7 +33,7 @@ app.use(function (req, res, next) {
 });
 
 // middleware for validator
-app.set('port', config.port);
+app.set('port', 3100);
 
 // all static resource
 app.use('/app', express.static(path.resolve(__dirname, '../client/app')));
