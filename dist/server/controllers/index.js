@@ -1,0 +1,12 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var tintuc_controller_1 = require("./tintuc-controller");
+exports.TinTucController = tintuc_controller_1.default;
+var monan_controler_1 = require("./monan-controler");
+exports.MonAnController = monan_controler_1.default;
+var sendo_controller_1 = require("./sendo-controller");
+exports.SenDoController = sendo_controller_1.default;
+var auth_controller_1 = require("./auth-controller");
+exports.AuthController = auth_controller_1.default;
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbnRyb2xsZXJzL2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7O0FBQ0EseURBQWlFO0FBQXhELCtDQUFBLE9BQU8sQ0FBb0I7QUFFcEMscURBQThEO0FBQXJELDRDQUFBLE9BQU8sQ0FBbUI7QUFDbkMsdURBQStEO0FBQXRELDZDQUFBLE9BQU8sQ0FBbUI7QUFHbkMscURBQTZEO0FBQXBELDJDQUFBLE9BQU8sQ0FBa0IiLCJmaWxlIjoiY29udHJvbGxlcnMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJcclxuZXhwb3J0IHsgZGVmYXVsdCBhcyBUaW5UdWNDb250cm9sbGVyIH0gZnJvbSAnLi90aW50dWMtY29udHJvbGxlcidcclxuXHJcbmV4cG9ydCB7IGRlZmF1bHQgYXMgTW9uQW5Db250cm9sbGVyIH0gZnJvbSAnLi9tb25hbi1jb250cm9sZXInXHJcbmV4cG9ydCB7IGRlZmF1bHQgYXMgU2VuRG9Db250cm9sbGVyIH0gZnJvbSAnLi9zZW5kby1jb250cm9sbGVyJ1xyXG5cclxuXHJcbmV4cG9ydCB7IGRlZmF1bHQgYXMgQXV0aENvbnRyb2xsZXIgfSBmcm9tICcuL2F1dGgtY29udHJvbGxlciciXX0=
